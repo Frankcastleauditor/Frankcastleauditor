@@ -41,7 +41,7 @@ I help protocols ship safer smart contracts by identifying **critical vulnerabil
 - Telegram : [castle_chain](https://t.me/castle_chain)
 
 - Email: castlechain99@gmail.com
-- website : frankcastle.xyz
+- website : https://www.frankcastle.xyz
 ---
 
 ⭐ If you're building on Solana and want a security review, feel free to reach out.
