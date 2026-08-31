@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="288" viewBox="0 0 880 288" role="img" aria-label="Findings by severity across 39 documented audits: 40 critical, 46 high, 123 medium, 217 low. 426 findings total.">
+<rect width="880" height="288" fill="#ffffff"/>
+<text x="22" y="34" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="17" font-weight="700" fill="#0b0b0b">Findings by severity</text>
+<text x="22" y="55" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="13" fill="#52514e">426 findings across 39 documented audits &#183; NDA engagements not included</text>
+<rect x="96.0" y="74" width="1" height="164" fill="#e1e0d9"/>
+<text x="96.0" y="256" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-variant-numeric="tabular-nums">0</text>
+<rect x="238.0" y="74" width="1" height="164" fill="#e1e0d9"/>
+<text x="238.0" y="256" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-variant-numeric="tabular-nums">50</text>
+<rect x="380.0" y="74" width="1" height="164" fill="#e1e0d9"/>
+<text x="380.0" y="256" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-variant-numeric="tabular-nums">100</text>
+<rect x="522.0" y="74" width="1" height="164" fill="#e1e0d9"/>
+<text x="522.0" y="256" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-variant-numeric="tabular-nums">150</text>
+<rect x="664.0" y="74" width="1" height="164" fill="#e1e0d9"/>
+<text x="664.0" y="256" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-variant-numeric="tabular-nums">200</text>
+<rect x="806.0" y="74" width="1" height="164" fill="#e1e0d9"/>
+<text x="806.0" y="256" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="11" fill="#898781" text-anchor="middle" font-variant-numeric="tabular-nums">250</text>
+<text x="78" y="100.5" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="13.5" font-weight="600" fill="#52514e" text-anchor="end">Critical</text>
+<rect x="96" y="84" width="113.6" height="24" rx="4" fill="#7f1d1d"/>
+<rect x="96" y="84" width="4" height="24" fill="#7f1d1d"/>
+<text x="219.6" y="101.0" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="14" font-weight="700" fill="#0b0b0b">40</text>
+<text x="78" y="140.5" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="13.5" font-weight="600" fill="#52514e" text-anchor="end">High</text>
+<rect x="96" y="124" width="130.6" height="24" rx="4" fill="#c02c26"/>
+<rect x="96" y="124" width="4" height="24" fill="#c02c26"/>
+<text x="236.6" y="141.0" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="14" font-weight="700" fill="#0b0b0b">46</text>
+<text x="78" y="180.5" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="13.5" font-weight="600" fill="#52514e" text-anchor="end">Medium</text>
+<rect x="96" y="164" width="349.3" height="24" rx="4" fill="#e8674a"/>
+<rect x="96" y="164" width="4" height="24" fill="#e8674a"/>
+<text x="455.3" y="181.0" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="14" font-weight="700" fill="#0b0b0b">123</text>
+<text x="78" y="220.5" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="13.5" font-weight="600" fill="#52514e" text-anchor="end">Low</text>
+<rect x="96" y="204" width="616.3" height="24" rx="4" fill="#f0a58c"/>
+<rect x="96" y="204" width="4" height="24" fill="#f0a58c"/>
+<text x="722.3" y="221.0" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="14" font-weight="700" fill="#0b0b0b">217</text>
+</svg>

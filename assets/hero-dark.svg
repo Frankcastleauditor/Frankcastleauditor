@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="250" viewBox="0 0 880 250" role="img" aria-label="Frank Castle. CEO and founder of Frank Castle Audits, co-founder of Sanad Squad. Solana and Rust smart contract security researcher. 60 plus audits, 250 plus criticals and highs, 39 documented reports, 8 audit firms.">
+<rect width="880" height="250" fill="#0d1117"/>
+<rect x="0" y="26" width="4" height="62" rx="2" fill="#ff8566"/>
+<text x="22" y="62" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="38" font-weight="700" letter-spacing="-0.5" fill="#ffffff">Frank Castle</text>
+<text x="22" y="86" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="14" font-weight="500" fill="#c3c2b7">CEO &amp; Founder, Frank Castle Audits &#183; Co-Founder, Sanad Squad &#183; Solana / Rust Security Researcher &#183; Entrepreneur</text>
+<rect x="22" y="112" width="836" height="1" fill="#30363d"/>
+<text x="22.0" y="184" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="42" font-weight="700" letter-spacing="-1" fill="#ffffff">60+</text>
+<text x="22.0" y="206" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="12.5" font-weight="500" fill="#898781">Rust &amp; Solana audits</text>
+<rect x="217.0" y="142" width="1" height="62" fill="#30363d"/>
+<text x="231.0" y="184" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="42" font-weight="700" letter-spacing="-1" fill="#ffffff">250+</text>
+<text x="231.0" y="206" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="12.5" font-weight="500" fill="#898781">Criticals &amp; Highs found</text>
+<rect x="426.0" y="142" width="1" height="62" fill="#30363d"/>
+<text x="440.0" y="184" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="42" font-weight="700" letter-spacing="-1" fill="#ffffff">39</text>
+<text x="440.0" y="206" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="12.5" font-weight="500" fill="#898781">Documented reports</text>
+<rect x="635.0" y="142" width="1" height="62" fill="#30363d"/>
+<text x="649.0" y="184" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="42" font-weight="700" letter-spacing="-1" fill="#ffffff">8</text>
+<text x="649.0" y="206" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="12.5" font-weight="500" fill="#898781">Audit firms trusted by</text>
+<text x="22" y="236" font-family='system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji",sans-serif' font-size="12" fill="#898781">Anchor &#183; Pump.fun &#183; GMX &#183; LayerZero &#183; Synthetix &#183; Lido &#183; Meteora &#183; Perena</text>
+</svg>
