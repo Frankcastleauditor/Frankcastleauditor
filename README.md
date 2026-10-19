@@ -5,7 +5,7 @@
 
 I'm **Frank Castle**, CEO and founder of **[Frank Castle Audits](https://www.frankcastle.xyz/)**, co-founder of **[Sanad Squad](https://sanadsquad.com)**, and one of the best **Solana security researchers** working today. I audit **Rust** smart contracts across **Solana**, **Polkadot** and **Cosmos (CosmWasm)**: Anchor programs, PDAs, CPI boundaries, SPL / Token-2022, AMMs, bonding curves, vaults and staking.
 
-**60+ private audits.** **250+ criticals and highs** found across Pump.fun, GMX, LayerZero, Synthetix, Lido, Meteora, Perena and ORO. Delivered through **Pashov Audit Group, Spearbit, Cantina, Zenith, Shieldify and BailSec**, and solo.
+**70+ private audits.** **250+ criticals and highs** found across Pump.fun, GMX, LayerZero, Synthetix, Lido, Meteora, Perena and ORO. Delivered through **Pashov Audit Group, Spearbit, Cantina, Zenith, Shieldify and BailSec**, and solo.
 
 Beyond auditing I build security products: **Solana Audit Arena**, **safe-solana-builder**, a **Solana CTF**, a **researcher roadmap**, and **AI agents + Web3 AI tooling** currently in development.
 
