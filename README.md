@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Frank Castle, CEO & Founder of Frank Castle Audits and Co-Founder of Sanad Squad. Solana / Rust security researcher. 60+ audits, 250+ criticals and highs, 39 documented reports, trusted by 8 audit firms." src="assets/hero-light.svg" width="880">
+  <img alt="Frank Castle, CEO & Founder of Frank Castle Audits and Co-Founder of Sanad Squad. Solana / Rust security researcher. 70+ audits, 250+ criticals and highs, 39 documented reports, trusted by 8 audit firms." src="assets/hero-light.svg" width="880">
 </picture>
 
 I'm **Frank Castle**, CEO and founder of **[Frank Castle Audits](https://www.frankcastle.xyz/)**, co-founder of **[Sanad Squad](https://sanadsquad.com)**, and one of the best **Solana security researchers** working today. I audit **Rust** smart contracts across **Solana**, **Polkadot** and **Cosmos (CosmWasm)**: Anchor programs, PDAs, CPI boundaries, SPL / Token-2022, AMMs, bonding curves, vaults and staking.
